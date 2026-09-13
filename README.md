@@ -16,6 +16,24 @@ The workflow reads incoming customer emails, processes the message using an AI A
 
 ---
 
+## 📸 Project Screenshots
+
+### 🔹 Complete n8n Workflow
+
+![Complete Workflow](image/Workflow.png)
+
+---
+
+### 🔹 ai customer support email automotion
+
+![Customer Email](image/ai customer support email automotion.png)
+
+---
+
+### 🔹 Customer Support Email Received
+
+![Automated Reply](image/AI-automated-reply.png)
+
 ## ⚙️ Workflow Architecture
 
 ```text
