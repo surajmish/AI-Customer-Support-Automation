@@ -1,4 +1,4 @@
-# 🤖 AI Customer Support Automation
+#  AI Customer Support Automation
 
 An AI-powered customer support email automation workflow built using **n8n**.
 
@@ -6,7 +6,7 @@ This workflow automatically receives customer support emails, understands the cu
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Customer support teams often receive repetitive emails and queries. Responding manually to every email can be time-consuming.
 
@@ -16,7 +16,7 @@ The workflow reads incoming customer emails, processes the message using an AI A
 
 ---
 
-## 📸 Project Screenshots
+##  Project Image
 
 ### 🔹 Complete n8n Workflow
 
