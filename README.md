@@ -26,13 +26,13 @@ The workflow reads incoming customer emails, processes the message using an AI A
 
 ### 🔹 ai customer support email automotion
 
-![Customer Email](image/ai customer support email automotion.png)
+![Customer Email](image/ai%20customer%20support%20email%20automotion.png)
 
 ---
 
 ### 🔹 Customer Support Email Received
 
-![Automated Reply](image/AI-automated-reply.png)
+![Automated Reply](image/Ai-automoted-reply.png)
 
 ## ⚙️ Workflow Architecture
 
